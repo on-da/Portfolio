@@ -19,7 +19,7 @@ export default class Top extends Component {
                                target="_blank" rel="noreferrer noopener"
                             >Github</a></li>
                             <li>
-                            <a>Gmail:xiangtailangentian@gmail.com</a></li>
+                            <a>Gmail：xiangtailangentian@gmail.com</a></li>
                         </ul>
                     </div>
                 
