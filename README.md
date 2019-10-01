@@ -1,1 +1,1 @@
-Portfolioのアドレス：https://on-da.github.io/my-portfolio
+Portfolioのアドレス：https://on-da.github.io/Portfolio
