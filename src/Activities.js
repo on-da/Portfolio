@@ -9,7 +9,10 @@ export default class Activities extends Component {
 
                 <Card className="textarea">
                     <CardBody>
-                        <CardTitle>On-da Portfolio</CardTitle>
+                        <CardTitle><a href="https://github.com/on-da/Portfolio.git"
+                                      target="_blank"
+                                      rel="noreferrer noopener" 
+                                      >On-da Portfolio</a></CardTitle>
                         <CardText>このポートフォリオです。活動の記録をしていくために作成しました。</CardText>
                         <CardText>フレームワークにReactを使って作成しました。SPA！react-router-dom！そういうのもあるのか！って感じです。</CardText>
                     </CardBody>
