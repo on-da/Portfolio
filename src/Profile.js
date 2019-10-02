@@ -10,8 +10,8 @@ export default class Profile extends Component {
                 <div className="textarea">
                     <p>名前 : 恩田　祥太朗</p>
                     <p>{"Age : "+age}</p>
-                    <p>職務経歴 : 2015年に大学卒業後、大手化学メーカーの工場に作業員として約3年勤務
-                       その後退職し、土木関係の企業に1年間、総務部の事務員として働き退職。現在求職中。</p>
+                    <p>職務経歴 : 2015年に大学卒業後、大手化学メーカーの工場に作業員として約3年勤務。その後退職し、土木関係の企業に1年間、総務部の事務員として働き
+                        　　　　  退職。ITエンジニア目指して現在求職中。</p>
                     <p>勉強中・勉強した : Javascript React.js Redux Next.js</p>
                 </div>
             </Col>

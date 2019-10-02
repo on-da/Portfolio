@@ -16,10 +16,10 @@ export default class App extends Component {
           <div className="header d-flex flex-column flex-md-row align-items-center sticky-top p-3 px-md-4 mb-3">
             <h4 className="my-0 mr-md-auto font-weight-normal">On-da Portfolio</h4>
             <nav className="my-2 my-md-0 mr-md-3">
-              <Link className="p-2 trans-green" to="/my-portfolio">Top</Link>
-              <Link className="p-2 trans-red" to="/my-portfolio/activities">Activities</Link>
-              <Link className="p-2 trans-yellow" to="/my-portfolio/profile">Profile</Link>
-              <Link className="p-2 trans-blue" to="/my-portfolio/hobby">Hobby</Link>
+              <Link to="/">Top </Link>
+              <Link to="/portfolio/activities"> Activities </Link>
+              <Link to="/portfolio/profile"> Profile </Link>
+              <Link to="/portfolio/hobby"> Hobby </Link>
             </nav>
           </div>
 
@@ -27,10 +27,10 @@ export default class App extends Component {
             <div className="row">
 
               <Switch>
-                <Route exact path="/my-portfolio" component={Top} />
-                <Route path="/my-portfolio/activities" component={Activities} />
-                <Route path="/my-portfolio/profile" component={Profile} />
-                <Route path="/my-portfolio/hobby" component={Hobby} />
+                <Route path="/portfolio/activities" component={Activities} />
+                <Route path="/portfolio/profile" component={Profile} />
+                <Route path="/portfolio/hobby" component={Hobby} />
+                <Route exact path="/" component={Top} />
               </Switch>
 
             </div>

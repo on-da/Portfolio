@@ -47,7 +47,7 @@ export default class Activities extends Component {
                             target="_blank"
                             rel="noreferrer noopener"
                         >現在制作中</a></CardTitle>
-                        <CardText>現在制作中です。</CardText>
+                        <CardText>APIとか使ったりしたほうがいいかなとか思案中です。</CardText>
                     </CardBody>
                 </Card>
 
