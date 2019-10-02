@@ -13,8 +13,9 @@ export default class Activities extends Component {
                                       target="_blank"
                                       rel="noreferrer noopener" 
                                       >On-da Portfolio</a></CardTitle>
-                        <CardText>このポートフォリオです。活動の記録をしていくために作成しました。</CardText>
-                        <CardText>フレームワークにReactを使って作成しました。SPA！react-router-dom！そういうのもあるのか！って感じです。</CardText>
+                        <CardText>このポートフォリオです。活動の記録をしていくために作成しました。
+                        フレームワークにReactを使って作成しました。SPA！react-router-dom！そういうのもあるのか！って感じでした。
+                        </CardText>
                     </CardBody>
                 </Card>
 
