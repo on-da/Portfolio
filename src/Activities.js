@@ -21,7 +21,7 @@ export default class Activities extends Component {
 
                 <Card className="textarea">
                     <CardBody>
-                        <CardTitle><a href="https://github.com/on-da/calculator-js"
+                        <CardTitle><a href="https://on-da.github.io/calculator-js/"
                             target="_blank"
                             rel="noreferrer noopener"
                         >電卓(HTML+CSS+javascript)</a></CardTitle>
