@@ -30,16 +30,19 @@ export default class Activities extends Component {
                     </CardBody>
                 </Card>
 
-
                 <Card className="textarea">
                     <CardBody>
-                        <CardTitle><a href="https://github.com/on-da/ToDo-React"
+                        <CardTitle><a href="https://on-da.github.io/react-calc/"
                             target="_blank"
                             rel="noreferrer noopener"
-                        >ToDoリスト(React.js+Redux Persist)</a></CardTitle>
-                        <CardText>ReactでTodoリストを作ってみて、リロードしても値が保持されるようにReduxも使って作ってみました。</CardText>
+                        >電卓(React+Redux+CSS)</a></CardTitle>
+                        <CardText>ReactとReduxの練習も兼ねて電卓チャレンジ2回目。Reactはリアルタイムに情報を更新できるが、データの管理は微妙でReduxで補わないとだめなんだなってのがわかりました。
+                        </CardText>
                     </CardBody>
                 </Card>
+
+
+            
 
 
                 <Card className="textarea">
@@ -48,7 +51,7 @@ export default class Activities extends Component {
                             target="_blank"
                             rel="noreferrer noopener"
                         >現在制作中</a></CardTitle>
-                        <CardText>APIとか使ったりしたほうがいいかなとか思案中です。</CardText>
+                        <CardText>APIとか使ったりしたほうがいいかなとか思案中です。作りたいものがみつからねぇ</CardText>
                     </CardBody>
                 </Card>
 
