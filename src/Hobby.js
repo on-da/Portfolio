@@ -10,11 +10,8 @@ export default class Hobby extends Component {
 
                 <Card className="textarea">
                     <CardBody>
-                        <CardTitle>ゲーム</CardTitle>
-                        <CardText>携帯ゲームはFateGrandOrder、ドールズフロントライン、崩壊3rdを最近はやってます。
-                            中国のアプリゲームの作り込みが凄いなあって感じる今日この頃です。
-                            コンシューマもその時に合わせて色々やったりしますがロボットゲームが結構好きだったり。
-                            アーマードコア新作…。今はデモンエクスマキナで欲求を満たしてます。</CardText>
+                        <CardTitle>ゲーム（直近）</CardTitle>
+                        <CardText>FF14、ボーダーブレイク、リングフィットアドベンチャー、デスストランディング、ペルソナ5R</CardText>
                     </CardBody>
                 </Card>
 

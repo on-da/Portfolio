@@ -14,7 +14,7 @@ export default class Activities extends Component {
                                       rel="noreferrer noopener" 
                                       >On-da Portfolio</a></CardTitle>
                         <CardText>このポートフォリオです。活動の記録をしていくために作成しました。
-                        フレームワークにReactを使って作成しました。SPA！react-router-dom！そういうのもあるのか！って感じでした。
+                        フレームワークにReactを使って作成しました。SPAのreact-router-domに初めて手を出してみました
                         </CardText>
                     </CardBody>
                 </Card>
@@ -51,7 +51,7 @@ export default class Activities extends Component {
                             target="_blank"
                             rel="noreferrer noopener"
                         >現在制作中</a></CardTitle>
-                        <CardText>APIとか使ったりしたほうがいいかなとか思案中です。作りたいものがみつからねぇ</CardText>
+                        <CardText>フロント言語だけではアプリは作れぬと言う事実に今更気づき、サーバーサイドの言語（多分Node.jsにする）勉強しなきゃってなっています。</CardText>
                     </CardBody>
                 </Card>
 
